@@ -1,0 +1,47 @@
+Class documentation
+<---- javadoc command: ---->
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.6
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/ryanegan/Documents/CS225/Homework/HW2
+-d
+/Users/ryanegan/Documents/CS225/Homework/HW2/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/ryanegan/Documents/CS225/Homework/HW2/Simulation.java
+<---- end of javadoc command ---->
+Loading source file /Users/ryanegan/Documents/CS225/Homework/HW2/Simulation.java...
+Constructing Javadoc information...
+Standard Doclet version 1.6.0_37
+Building tree for all the packages and classes...
+Generating /Users/ryanegan/Documents/CS225/Homework/HW2/doc/Simulation.html...
+/Users/ryanegan/Documents/CS225/Homework/HW2/Simulation.java:11: warning - @Ryan is an unknown tag.
+/Users/ryanegan/Documents/CS225/Homework/HW2/Simulation.java:11: warning - @HW is an unknown tag.
+/Users/ryanegan/Documents/CS225/Homework/HW2/Simulation.java:198: warning - @param argument "double" is not a parameter name.
+/Users/ryanegan/Documents/CS225/Homework/HW2/Simulation.java:198: warning - @param argument "double" is not a parameter name.
+/Users/ryanegan/Documents/CS225/Homework/HW2/Simulation.java:239: warning - @param argument "ArrayList<Card>" is not a parameter name.
+Generating /Users/ryanegan/Documents/CS225/Homework/HW2/doc/package-frame.html...
+Generating /Users/ryanegan/Documents/CS225/Homework/HW2/doc/package-summary.html...
+Generating /Users/ryanegan/Documents/CS225/Homework/HW2/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/ryanegan/Documents/CS225/Homework/HW2/doc/allclasses-frame.html...
+Generating /Users/ryanegan/Documents/CS225/Homework/HW2/doc/allclasses-noframe.html...
+Generating /Users/ryanegan/Documents/CS225/Homework/HW2/doc/index.html...
+Generating /Users/ryanegan/Documents/CS225/Homework/HW2/doc/stylesheet.css...
+5 warnings

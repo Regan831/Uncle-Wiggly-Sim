@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=move\ message
+comment0.target=Card(int,\ java.lang.String)
+comment0.text=\n\ The\ constructor\ for\ the\ card.\ input\ the\ message\ on\ the\ card\ and\ the\ number\ of\ spaces\ to\ be\ moved.\n\ @Param\ int\ move\ is\ the\ number\ of\ spaces\ to\ be\ moved.\n\ @Param\ String\ message\ is\ the\ message\ that\ is\ on\ the\ card.\n
+numComments=1

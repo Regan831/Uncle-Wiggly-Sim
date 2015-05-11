@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ModifiedDeck()
+comment0.text=\n\ Constructor\ to\ make\ a\ new\ deck.\n
+comment1.params=
+comment1.target=java.util.ArrayList\ shuffleDeck()
+comment1.text=\n\ "Shuffles"\ the\ deck.\ Places\ all\ cards\ into\ an\ array\ list\ aka\ the\ deck.\ \n\ @returns\ an\ array\ list\ full\ of\ 56\ cards.\n
+comment2.params=filename
+comment2.target=java.util.ArrayList\ initializeDeck(java.lang.String)
+comment2.text=\n\ This\ is\ a\ method\ to\ read\ in\ a\ deck\ of\ cards\ from\ a\ file.\ This\ did\ not\ fully\ work\ because\ of\ memory\ issues.\n\ @param\ String\ filename\ is\ the\ location\ of\ the\ file\ to\ be\ read\ in\n\ @return\ ArrayList\ the\ full\ deck\n
+comment3.params=remainingCards
+comment3.target=Card\ selectCard(int)
+comment3.text=\n\ Selects\ a\ card\ for\ the\ game.\ Picks\ one\ random\ card\ out\ of\ the\ deck\ and\ then\ removes\ it\ from\ the\ array.\ Also\ \n\ returns\ the\ card\ so\ that\ the\ user\ can\ use\ it.\n\ @Param\ remainingCards\ is\ the\ number\ of\ cards\ remaining\ in\ the\ deck\ so\ that\ this\ method\ can\ correctly\ pick\ a\ random\ number.\n\ @returns\ a\ Card,\ the\ selected\ card.\n
+numComments=4

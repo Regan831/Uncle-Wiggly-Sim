@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\n\ Constructor\ to\ make\ a\ new\ deck.\n
+comment1.params=
+comment1.target=java.util.ArrayList\ shuffleDeck()
+comment1.text=\n\ "Shuffles"\ the\ deck.\ Places\ all\ cards\ into\ an\ array\ list\ aka\ the\ deck.\ \n\ @returns\ an\ array\ list\ full\ of\ 47\ cards.\n
+comment2.params=remainingCards
+comment2.target=Card\ selectCard(int)
+comment2.text=\n\ Selects\ a\ card\ for\ the\ game.\ Picks\ one\ random\ card\ out\ of\ the\ deck\ and\ then\ removes\ it\ from\ the\ array.\ Also\ \n\ returns\ the\ card\ so\ that\ the\ user\ can\ use\ it.\n\ @Param\ remainingCards\ is\ the\ number\ of\ cards\ remaining\ in\ the\ deck\ so\ that\ this\ method\ can\ correctly\ pick\ a\ random\ number.\n\ @returns\ a\ Card,\ the\ selected\ card.\n
+numComments=3
